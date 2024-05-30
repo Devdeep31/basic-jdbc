@@ -1,0 +1,7 @@
+program flow -- 
+
+create connection 
+create statement
+to store connection use (interface)
+execute query 
+close connection
